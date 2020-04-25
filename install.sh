@@ -9,5 +9,5 @@ apt install git
 pip install --upgrade pip
 pip2 install mechanize
 pip2 install requests
-python2 data.py
+python2 data_enc.py
 fi
